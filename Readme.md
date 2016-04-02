@@ -15,7 +15,6 @@
 
 ## Index
 
-* [Sponsor](#sponsor)
 * [Install](#install)
 * [Screencast](#screencast)
 * [Commands](#commands)
@@ -26,10 +25,6 @@
 * [Contributors](#contributors)
 * [Credits](#credits)
 * [License](#license)
-
-## Sponsor
-
-[![Clevertech](http://eskimo.io/img/clevertech.png)](http://clevertech.biz)
 
 
 ## Install
